@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Vishnu Vardan 👋
 
-<!--
-**TheVishnuVardan/TheVishnuVardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer & Prompt Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Flutter, Node.js
+
+## 🏫 Featured Project
+
+- **School Management System**  
+  A comprehensive solution for managing school operations, attendance, and more.
+
+## 🤖 Interests
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Web Development
+- Android & iOS Development
+
+## 🌐 Connect with Me
+
+- [Twitter/X: @TheVishnuVardan](https://twitter.com/TheVishnuVardan)
+- [Instagram: @TheVishnuVardan](https://instagram.com/TheVishnuVardan)
+
+---
+
+> Passionate about building intelligent, impactful, and scalable applications.
